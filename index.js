@@ -1,7 +1,7 @@
-/**
+﻿/**
  * asia-zutaten-lexikon
  * Offizielle Datenbank und API für asiatische Zutaten und Gewürze
- * https://asiakochen.de
+ * https://www.asiakochen.de
  */
 
 export const INGREDIENTS = [
@@ -13,7 +13,7 @@ export const INGREDIENTS = [
     flavor: "Nussig, aromatisch, leicht herb",
     description: "Der Eckpfeiler der authentischen chinesischen Küche. Unverzichtbar für Wokgerichte, Marinaden und Fleischentgiftung.",
     substitute: "Trockener Sherry oder milder Weißwein mit einem Spritzer Reisessig.",
-    url: "https://asiakochen.de"
+    url: "https://www.asiakochen.de"
   },
   {
     id: "dunkle-sojasauce",
@@ -23,7 +23,7 @@ export const INGREDIENTS = [
     flavor: "Marmeladig-süßlich, malzig, mild-salzig",
     description: "Hauptsächlich für die goldbraune, glänzende Farbe bei Schmorgerichten und gebratenen Nudeln.",
     substitute: "Helle Sojasauce gemischt mit Melasse oder etwas braunem Rohrzucker.",
-    url: "https://asiakochen.de"
+    url: "https://www.asiakochen.de"
   },
   {
     id: "gochujang",
@@ -33,7 +33,7 @@ export const INGREDIENTS = [
     flavor: "Fermentiert, scharf, erdig, leicht süß",
     description: "Traditionell fermentierte koreanische Chilipaste aus Chilipulver, Klebreis und Sojabohnen.",
     substitute: "Miso-Paste gemischt mit Chilipulver (Gochugaru) und einer Prise Zucker.",
-    url: "https://asiakochen.de"
+    url: "https://www.asiakochen.de"
   },
   {
     id: "szechuanpfeffer",
@@ -43,7 +43,7 @@ export const INGREDIENTS = [
     flavor: "Zitrusartig, betäubend (Ma-La Effekt)",
     description: "Kein echter Pfeffer, sondern die Samenkapsel einer Rautengewächsart. Erzeugt das typische Kribbeln auf der Zunge.",
     substitute: "Schwarzer Pfeffer gemischt mit etwas Koriander und geriebener Zitronenschale.",
-    url: "https://asiakochen.de"
+    url: "https://www.asiakochen.de"
   },
   {
     id: "chinkiang-essig",
@@ -53,7 +53,7 @@ export const INGREDIENTS = [
     flavor: "Rauchig, säuerlich, komplex, malzig",
     description: "Klassischer schwarzer Essig für Dumpling-Dips, Kung Pao Hähnchen und Schmorgerichte.",
     substitute: "Balsamico-Essig gemischt mit Reisessig im Verhältnis 1:1.",
-    url: "https://asiakochen.de"
+    url: "https://www.asiakochen.de"
   }
 ];
 
@@ -76,3 +76,4 @@ export default {
   getAllIngredients,
   getRandomIngredient
 };
+

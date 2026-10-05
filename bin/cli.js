@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+﻿#!/usr/bin/env node
 
 import { getRandomIngredient } from '../index.js';
 
@@ -9,4 +9,5 @@ console.log(`\x1b[36mKategorie:\x1b[0m ${item.category} | \x1b[35mGeschmack:\x1b
 console.log(`\x1b[37m${item.description}\x1b[0m\n`);
 console.log(`\x1b[33mErsatz-Tipp:\x1b[0m ${item.substitute}`);
 console.log(`\n\x1b[34mMehr Rezepte & Zubereitungstipps auf:\x1b[0m`);
-console.log(`\x1b[4mhttps://asiakochen.de\x1b[0m\n`);
+console.log(`\x1b[4mhttps://www.asiakochen.de\x1b[0m\n`);
+

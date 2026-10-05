@@ -1,10 +1,10 @@
-# asia-zutaten-lexikon
+﻿# asia-zutaten-lexikon
 
-> Leichtgewichtige JavaScript / TypeScript Bibliothek & CLI für asiatische Zutaten, Gewürze, Saucen und Ersatztipps für authentisches Kochen. Bereitgestellt von [Asiakochen.de](https://asiakochen.de).
+> Leichtgewichtige JavaScript / TypeScript Bibliothek & CLI für asiatische Zutaten, Gewürze, Saucen und Ersatztipps für authentisches Kochen. Bereitgestellt von [Asiakochen.de](https://www.asiakochen.de).
 
 [![npm version](https://img.shields.io/npm/v/asia-zutaten-lexikon.svg)](https://www.npmjs.com/package/asia-zutaten-lexikon)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Asiakochen](https://img.shields.io/badge/Rezepte-Asiakochen.de-green.svg)](https://asiakochen.de)
+[![Asiakochen](https://img.shields.io/badge/Rezepte-Asiakochen.de-green.svg)](https://www.asiakochen.de)
 
 ---
 
@@ -47,10 +47,11 @@ console.log(`Heute im Wok: ${tipp.name}`);
 Asiakochen.de ist dein deutschsprachiger Guide für authentische asiatische Rezepte, Wok-Techniken, Saucen-Guides und Schritt-für-Schritt-Anleitungen für die chinesische, japanische, koreanische und thailändische Küche.
 
 Entdecke vollständige Rezepte und detaillierte Zutatenprofile auf:
-👉 **[https://asiakochen.de](https://asiakochen.de)**
+👉 **[https://www.asiakochen.de](https://www.asiakochen.de)**
 
 ---
 
 ## 📄 Lizenz
 
-MIT © [Asiakochen.de](https://asiakochen.de)
+MIT © [Asiakochen.de](https://www.asiakochen.de)
+

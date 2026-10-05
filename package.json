@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "asia-zutaten-lexikon",
   "version": "1.0.0",
   "type": "module",
@@ -17,14 +17,14 @@
     "gochujang",
     "kochen-lernen"
   ],
-  "author": "Asiakochen.de <kontakt@asiakochen.de> (https://asiakochen.de)",
-  "homepage": "https://asiakochen.de",
+  "author": "Asiakochen.de <kontakt@asiakochen.de> (https://www.asiakochen.de)",
+  "homepage": "https://www.asiakochen.de",
   "repository": {
     "type": "git",
     "url": "https://github.com/erichansa/asia-zutaten-lexikon"
   },
   "bugs": {
-    "url": "https://asiakochen.de"
+    "url": "https://www.asiakochen.de"
   },
   "license": "MIT",
   "files": [
@@ -34,3 +34,4 @@
     "README.md"
   ]
 }
+
