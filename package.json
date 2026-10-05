@@ -1,0 +1,36 @@
+{
+  "name": "asia-zutaten-lexikon",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Leichtgewichtige Datenbank und CLI für asiatische Zutaten, Saucen, Würzmittel und Ersatztipps für authentisches Kochen. Bereitgestellt von Asiakochen.de.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "bin": {
+    "asia-zutaten": "./bin/cli.js"
+  },
+  "keywords": [
+    "asiakochen",
+    "zutaten",
+    "rezepte",
+    "asiatische-kueche",
+    "sojasauce",
+    "gochujang",
+    "kochen-lernen"
+  ],
+  "author": "Asiakochen.de <kontakt@asiakochen.de> (https://asiakochen.de)",
+  "homepage": "https://asiakochen.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erichansa/asia-zutaten-lexikon"
+  },
+  "bugs": {
+    "url": "https://asiakochen.de"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "bin/cli.js",
+    "README.md"
+  ]
+}
